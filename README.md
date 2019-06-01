@@ -18,18 +18,7 @@ I will give some common ways to solve the problems for each topic The problems m
 
 ------------
 
-
-
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
-------------
-
-
 ##1. String/Array/Matrix
 
-#####1.1 String link
+#####[1.1 String]
 
